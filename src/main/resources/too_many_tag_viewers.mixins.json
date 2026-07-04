@@ -1,0 +1,9 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "admsgenter.too_many_tag_viewers.mixin",
+    "compatibilityLevel": "JAVA_8",
+    "refmap": "too_many_tag_viewers.refmap.json",
+    "client": ["ScreenMixin"],
+    "injectors": {"defaultRequire": 1}
+}
